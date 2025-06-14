@@ -1,7 +1,7 @@
 # Sina Nazaripour
 🔭 Currently diving deep into back-end web development with **Django**. 
 
-🤝 I’m here to bring your ideas to life through **clean**, **scalable**, and **modern** code.
+🤝 I love bringing your ideas to life through **clean**, **scalable**, and **modern code**.
 
 🌱 Software Engineering Student | Passionate about building real-world solutions. 
 ___
