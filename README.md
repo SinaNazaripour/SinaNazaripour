@@ -28,7 +28,7 @@ ___
 
 ## 📫 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sinanazari.prv) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinanazaripour) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://Linkedin.com/in/sinanazaripour) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sinanazaripour@gmail.com) 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Sinanazripour/)
 
