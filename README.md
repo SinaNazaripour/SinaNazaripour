@@ -7,9 +7,12 @@
 ___
 </br>
 
-![](https://github-readme-stats.vercel.app/api?username=SinaNazaripour&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=SinaNazaripour&theme=radical&hide_border=true)
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SinaNazaripour&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%">
+<img src="https://nirzak-streak-stats.vercel.app/?user=SinaNazaripour&theme=radical&hide_border=true" width="49%">
+  
+</p>
 ## Some of my skills:
 
 
