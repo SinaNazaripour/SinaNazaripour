@@ -7,8 +7,8 @@
 ___
 </br>
 
-![](https://github-readme-stats.vercel.app/api?username=SinaNazaripour&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SinaNazaripour&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
+![](https://github-readme-stats.vercel.app/api?username=SinaNazaripour&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=SinaNazaripour&theme=radical&hide_border=true)
 
 ## Some of my skills:
 
