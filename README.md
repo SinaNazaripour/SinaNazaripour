@@ -1,4 +1,4 @@
-<img src="welcome_blink_white.gif">
+<img src="welcome_blink_white(1).gif">
 
 
 🔭 Currently diving deep into back-end web development with **Django**. 
