@@ -13,6 +13,16 @@ ___
 <img src="https://nirzak-streak-stats.vercel.app/?user=SinaNazaripour&theme=radical&hide_border=true" width="49%" >
   
 </p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SinaNazaripour&show_icons=true&theme=tokyonight" width="100%">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinaNazaripour&layout=compact&theme=tokyonight" width="100%">
+    </td>
+  </tr>
+</table>
 
 ## Some of my skills:
 
