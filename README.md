@@ -1,4 +1,4 @@
-<img src="sina_windows_shell_intro_fixed.gif">
+<img src="welcome_blink_white.gif">
 
 
 🔭 Currently diving deep into back-end web development with **Django**. 
