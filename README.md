@@ -9,8 +9,8 @@ ___
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SinaNazaripour&theme=radical&hide_border=true&include_all_commits=true&count_private=true"  min-width="300px"  max-width="400px" >
-<img src="https://nirzak-streak-stats.vercel.app/?user=SinaNazaripour&theme=radical&hide_border=true"  min-width="300px" max-width="400px" >
+<img src="https://github-readme-stats.vercel.app/api?username=SinaNazaripour&theme=radical&hide_border=true&include_all_commits=true&count_private=true"  min-width="40%" max-width="100%" >
+<img src="https://nirzak-streak-stats.vercel.app/?user=SinaNazaripour&theme=radical&hide_border=true"  >
   
 </p>
 
