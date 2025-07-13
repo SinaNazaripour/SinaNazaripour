@@ -1,4 +1,6 @@
-# Sina Nazaripour
+<img src="sina_windows_shell_intro_fixed.gif">
+
+
 🔭 Currently diving deep into back-end web development with **Django**. 
 
 🤝 I love bringing your ideas to life through **clean**, **scalable**, and **modern code**.
