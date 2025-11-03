@@ -5,7 +5,6 @@
 
 🤝 I love bringing your ideas to life through **clean**, **scalable**, and **modern code**.
 
-🌱 Software Engineering Student | Passionate about building real-world solutions. 
 ___
 </br>
 
